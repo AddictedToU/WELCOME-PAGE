@@ -1,5 +1,5 @@
-<h1>░ WELCOME TO MY ADDICTION ░ </h1>
-<p>Here you can get to know a little about me and what I like to do in my free time!</p>
+<h1 align="center">░ WELCOME TO MY ADDICTION ░ </h1>
+<p align="center">Here you can get to know a about me and what I like to do in my free time!</p>
 
 ---
 ## ░ A Lil About Myself ░
