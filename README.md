@@ -1,8 +1,7 @@
-░█▀█░█▀▄░█▀▄░▀█▀░█▀▀░▀█▀
-░█▀█░█░█░█░█░░█░░█░░░░█░
-░▀░▀░▀▀░░▀▀░░▀▀▀░▀▀▀░░▀░
----
+<h1>░ WELCOME TO MY ADDICTION ░ </h1>
+<p>Here you can get to know a little about me and what I like to do in my free time!</p>
 
+---
 ## ░ A Lil About Myself ░
 > I like to do ridiculous stuff, like trying to crash my PC with Russian roulette.  
 > I live and breathe music — I could listen to the same song for **20 hours straight**.  
@@ -22,7 +21,7 @@ I code whatever comes into my head.
 ---
 
 ## ░ Who Inspires Me ░
-- [@jeepies](https://github.com/jeepies)  
+- [@jeepies <- Cool guy check them out!](https://github.com/jeepies)  
 - [@TheIdOfAlan](https://github.com/TheIdOfAlan)  
 - [@Vesturo](https://github.com/Vesturo)  
 
