@@ -37,4 +37,4 @@ I code whatever comes into my head.
 
 ## ░ Thanks for Reading ░
 > You made it to the end. Appreciate you!  
-> Stick around — more chaos is coming.
+> Stick around - more chaos is coming.
