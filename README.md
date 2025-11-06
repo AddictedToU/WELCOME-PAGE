@@ -4,7 +4,7 @@
 ---
 ## ░ A Lil About Myself ░
 > I like to do ridiculous stuff, like trying to crash my PC with Russian roulette.  
-> I live and breathe music — I could listen to the same song for **20 hours straight**.  
+> I live and breathe music - I could listen to the same song for **20 hours straight**.  
 > I am **20 years old**, UNC status achieved.  
 > Bi, aka bi myself.  
 > Favourite film? Probably **_The Aviator_**.  
@@ -30,7 +30,7 @@ I code whatever comes into my head.
 ## ░ Favourite Project ░
 **My full room-controlled AI**  
 
-> This AI controls my lights, computers, and pretty much everything — basically **my own Jarvis**.  
+> This AI controls my lights, computers, and pretty much everything - basically **my own Jarvis**.  
 > Fully automated chaos, just the way I like it.
 
 ---
